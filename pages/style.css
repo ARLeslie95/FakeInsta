@@ -1,0 +1,72 @@
+body{
+  position: relative;
+  background-color: white;
+}
+.main{
+  background-color: white;
+  height: 1000px;
+  width: 950px;
+  position: absolute;
+  left: 230px;
+}
+.pic{
+  position: relative;
+  left: 300px;
+  top: 124px;
+}
+.logo{
+  border-color: black;
+  position: relative;
+  left: 515px;
+  bottom: 690px;
+}
+.facebook{
+  background-color: blue;
+  color: white;
+  font-family: "lucida grande";
+  position: relative;
+  width: 172px;
+  height: 30px;
+  left: 10px;
+  top: 35px;
+  text-align: center;
+}
+.info{
+  border: solid black 1px;
+  background-color:silver;
+  position:relative;
+  top:86px;
+  right: 16px;
+  width: 232px;
+  height:30px;
+  margin: 5px;
+}
+
+.next{
+  background-color: blue;
+  color: white;
+  text-align: center;
+  position: relative;
+  width: 172px;
+  height: 30px;
+  top: 85px;
+  left: 12px;
+}
+.tcs{
+  color: grey;
+  text-align: center;
+  position: relative;
+  width:203px;
+  top: 87px;
+}
+.app{
+  position: relative;
+  top: 284px;
+  right: 18px;
+}
+navbar{
+  position: relative;
+  top: 380px;
+  display: inline;
+
+}
